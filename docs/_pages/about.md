@@ -14,7 +14,7 @@ With nearly ten years of Python experience, I am well versed in all aspects of t
 
 ### CV
 
-For a more detailed view of my experience, checkout [my CV](../../assets/files/Michael_F_XU_CV20190618.pdf).
+For a more detailed view of my experience, checkout [my CV](../../assets/files/Michael_F_XU_CV.pdf).
 
 
 ## Working ...
