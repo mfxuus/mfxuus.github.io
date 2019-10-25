@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GitPy"
+title                    : "Michael F. Xu"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Michael Xu"
+name                     : "Michael F. Xu"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -108,10 +108,10 @@ analytics:
 # Site Author
 author:
   name             : "Michael Xu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "GitPy exploration."
-  location         : "USA / China"
-  email            : xurubo@hotmail.com
+  avatar           : "/assets/images/bio-photo.jpeg"
+  bio              : "Python Enthusiast / Web Developer / Data Scientist"
+  location         : "Connecticut, USA"
+  email            : mfxecon@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
