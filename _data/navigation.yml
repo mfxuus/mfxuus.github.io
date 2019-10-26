@@ -1,10 +1,10 @@
 # main links
 main:
+  - title: "All Posts"
+    url: /year-archive/
+  - title: "By Tags"
+    url: /tags/  
   - title: "About Me"
     url: /about-me/
   - title: "Demo Projects"
     url: /demo-projects/
-  - title: "All Posts"
-    url: /year-archive/
-  - title: "Collections"
-    url: /collection-archive/
