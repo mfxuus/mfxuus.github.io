@@ -317,4 +317,4 @@ def timsort(to_sort):
 
 
 #### Time Complexity
-In best base scenario, where the list is already sorted, the run-construction, insertion sort, and merging part each takes linear time. Hence a big-) of `n`. Average case and worst case is bounded by merge sort's `nlog(n)` complexity.
+In best case scenario, where the list is already sorted, the run-construction, insertion sort, and merging part each takes linear time. Hence a big-) of `n`. Average case and worst case is bounded by merge sort's `nlog(n)` complexity.
