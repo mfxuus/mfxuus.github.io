@@ -38,7 +38,10 @@ layout: default
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
-              {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" %}
+              
+              {% assign minHeader = page.toc_h_min | default: 1 %}
+              {% assign maxHeader = page.toc_h_max | default: 6 %}
+              {% include toc.html sanitize=true html=content h_min=minHeader h_max=maxHeader class="toc__menu" %}
             </nav>
           </aside>
         {% endif %}

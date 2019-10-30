@@ -8,9 +8,9 @@ toc: true
 
 ## {Full Stack} Python Developer
 
-As a Math & Econ double major from NYU, with a Masters in Economics from Yale, and part-time pursuing a Masters in Computer Science from Georgia Tech, I am interested in applying my rigorous training in theoretical frameworks to real-world applications. With nearly ten years of programming experience on numerous personal projects and more recently, on professional enterprise experience, my skill set will be valuable to whoever needs data analytics services for whatever reason.
+As a Math & Econ double major from NYU, with a Masters in Economics from Yale, and part-time pursuing a Masters in Computer Science from Georgia Tech, I am interested in applying my rigorous training in theoretical frameworks to real-world applications.
 
-With nearly ten years of Python experience, I am well versed in all aspects of the amazing programming language. Pandas, Numpy, Scipy and related ML/AI libraries for data analytics and predictions, Django for web-development, BeautifulSoup for webscraping - I have them all. Whatever you need, I got it covered, all in Python!
+With nearly ten years of experience programming in Python, on numerous personal projects and more recently, in professional enterprise settings, I am well versed in all aspects of this amazing programming language. Pandas, Numpy, Scipy and related ML/AI libraries for data analytics and predictions, Django for web development, paired with a solid understanding of web frontend frameworks to ensure seamless integration between functional teams. 
 
 ### CV
 
