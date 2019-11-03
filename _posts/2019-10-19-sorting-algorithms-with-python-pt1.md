@@ -1,6 +1,6 @@
 ---
 title: "Sorting Algorithms w/ Python (Part 1)"
-excerpt: "Explore the common sorting algorithms, the theory behind them, as well as how to implement them using python. Part 1."
+excerpt: "Explore the common sorting algorithms, the theory behind them, as well as how to implement them using python. Part 1. Bubble Sort, Selection Sort, and Insertion Sort."
 <!-- last_modified_at: 2016-03-09T16:20:02-05:00 -->
 header:
   image: /assets/images/headers/sorting.jpg
@@ -36,8 +36,8 @@ The following algorithms will be covered in this series:
 
 
 ### Links to Other Parts of Series
-- [Part 2]({% post_url 2019-11-02-sorting-algorithms-with-python-2 %})
-- Part 3 (to be published)
+- [Part 2: Merge Sort, Tim Sort]({% post_url 2019-10-26-sorting-algorithms-with-python-pt2 %})
+- [Part 3: Quick Sort, Heap Sort]({% post_url 2019-11-02-sorting-algorithms-with-python-pt3 %})
 - Part 4 (to be published)
 
 
@@ -52,9 +52,9 @@ Below is a summary of the time complexity of the sorting algorithms that we will
 | Selection Sort | Ω(n<sup>2</sup>) |  θ(n<sup>2</sup>) | O(n<sup>2</sup>) |
 | Insertion Sort |       Ω(n)       |  θ(n<sup>2</sup>) | O(n<sup>2</sup>) |
 | Merge Sort     |    Ω(nlog(n))    |     θ(nlog(n))    |    O(nlog(n))    |
+| Tim Sort       |       Ω(n)       |     θ(nlog(n))    |    O(nlog(n))    |
 | Quick Sort     |    Ω(nlog(n))    |     θ(nlog(n))    | O(n<sup>2</sup>) |
 | Heap Sort      |    Ω(nlog(n))    |     θ(nlog(n))    |    O(nlog(n))    |
-| Tim Sort       |       Ω(n)       |     θ(nlog(n))    |    O(nlog(n))    |
 
 Next we will start looking into the details of each algorithms.
 
@@ -292,4 +292,4 @@ Very similar to Selection Sort, we also have two nested loops here, each growing
 
 ---
 
-If you are feeling comfortable with the basic sortings we have covered here, please move on to our Part 2 of the series, [Sorting Algorithms w/ Python (Part 2)]({% post_url 2019-11-02-sorting-algorithms-with-python-2 %}), where we will see how we can improve our time complexity so that we could sort more efficiently on larger lists.
+If you are feeling comfortable with the basic sortings we have covered here, please move on to our Part 2 of the series, [Sorting Algorithms w/ Python (Part 2)]({% post_url 2019-10-26-sorting-algorithms-with-python-pt2 %}), where we will see how we can improve our time complexity so that we could sort more efficiently on larger lists.

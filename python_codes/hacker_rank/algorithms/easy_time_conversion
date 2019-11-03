@@ -1,0 +1,20 @@
+https://www.hackerrank.com/challenges/time-conversion/problem
+
+def timeConversion(s):
+    #
+    # Write your code here.
+    #
+    # 12:00:00AM -- > 00:00:00
+    hour = int(s[:2])
+    if s.endswith('PM'):
+        if hour == 12:
+            return s[:-2]
+        return str(hour+12) + s[2:-2]
+    
+    # now if we are AM
+    if hour == 12:
+        return '00' + s[2:-2]
+    return s[:-2]
+
+
+    easy / string manipulation / algorithms / hackerrank

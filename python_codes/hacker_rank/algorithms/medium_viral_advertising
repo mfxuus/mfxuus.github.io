@@ -1,0 +1,11 @@
+https://www.hackerrank.com/challenges/strange-advertising/problem
+
+def viralAdvertising(n):
+    if n == 1:
+        return 2
+    liked_by_day = [2]
+    for i in range(n-1):
+        liked_by_day.append(math.floor(liked_by_day[i]*3/2))
+    return sum(liked_by_day)
+
+medium / algorithms / hackerrank / implementation

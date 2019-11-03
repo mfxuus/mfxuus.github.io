@@ -1,0 +1,22 @@
+https://www.hackerrank.com/challenges/grading/problem
+
+def process_grade(grade):
+    """
+    Implement the rounding
+    """
+    if grade <= 37:
+        return grade
+    elif grade % 5 > 2:
+        return ((grade // 5) + 1) * 5
+    return grade
+
+def gradingStudents(grades):
+    # Write your code here
+    res = []
+    for grade in grades:
+        res.append(process_grade(grade))
+    
+    return res
+
+
+easy / algorithms / hackerrank

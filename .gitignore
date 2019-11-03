@@ -15,3 +15,5 @@ node_modules
 npm-debug.log*
 vendor/bundle
 local_archive/
+
+drafts/
