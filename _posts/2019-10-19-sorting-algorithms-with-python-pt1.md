@@ -20,10 +20,7 @@ related: true
 
 In this series of blog posts we will explore the common sorting algorithms on an array of numbers, the theory behind them, as well as how to implement them using python. Sources of inspiration and code base will be mentioned as we go along, but note that we are implementing illustrations of the various sorting functions, and clarity is given primary concern over optimality in our implementations.
 
-We will split up the algorithms into several parts within our series, then in the final series, we will make more detailed comparison with real examples.
-
-
-The following algorithms will be covered in this series:
+We will split up the algorithms into several parts within our series, each dealing with 2 or 3 related algorithms. In particular, the following algorithms will be covered in this series:
 
 - Bubble Sort (Part 1)
 - Selection Sort (Part 1)
@@ -38,7 +35,6 @@ The following algorithms will be covered in this series:
 ### Links to Other Parts of Series
 - [Part 2: Merge Sort, Tim Sort]({% post_url 2019-10-26-sorting-algorithms-with-python-pt2 %})
 - [Part 3: Quick Sort, Heap Sort]({% post_url 2019-11-02-sorting-algorithms-with-python-pt3 %})
-- Part 4 (to be published)
 
 
 ### Array Sorting Complexities

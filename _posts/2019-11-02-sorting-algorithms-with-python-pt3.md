@@ -30,7 +30,6 @@ Heap sort, on the other hand, will seem to be quite different from other algorit
 ### Links to Other Parts of Series
 - [Part 1: Bubble, Selection, and Insertion Sort]({% post_url 2019-10-19-sorting-algorithms-with-python-pt1 %})
 - [Part 2: Merge and Tim Sort]({% post_url 2019-10-26-sorting-algorithms-with-python-pt2 %})
-- Part 4 (to be published)
 
 
 ### Array Sorting Complexities
@@ -272,8 +271,7 @@ import math
 
 class HeapSort():
     """
-    __init__ initializes the class object;
-    heapify
+    Implements heap sorting.
     """
     def __init__(self, arr):
         self.arr = arr

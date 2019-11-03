@@ -25,7 +25,6 @@ Continuing on our journey to explore sorting algorithms with Python, we will tal
 ### Links to Other Parts of Series
 - [Part 1: Bubble, Selection, and Insertion Sort]({% post_url 2019-10-19-sorting-algorithms-with-python-pt1 %})
 - [Part 3: Quick Sort, Heap Sort]({% post_url 2019-11-02-sorting-algorithms-with-python-pt3 %})
-- Part 4 (to be published)
 
 ### Array Sorting Complexities
 
