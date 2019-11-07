@@ -2,9 +2,33 @@
 main:
   - title: "All Posts"
     url: /year-archive/
+  - title: "Coding Posts"
+    url: /coding-posts/    
   - title: "By Tags"
     url: /tags/  
   - title: "About Me"
     url: /about-me/
   - title: "Demo Projects"
     url: /demo-projects/
+
+
+# documentation links
+coding_posts:
+  - title: HR - Easy
+    children:
+      - title: "[Algorithm] Between Two Sets"
+        url: /coding/hackerrank/between-two-sets/
+      - title: "[Algorithm] Grading Students"
+        url: /coding/hackerrank/grading-students/
+  - title: HR - Medium
+  - title: HR - Hard
+  - title: LC - Easy
+    children:
+      - title: "[Algorithm] Between Two Sets"
+        url: /coding/leetcode/two-sum/
+  - title: LC - Medium
+    children:
+      - title: "[Algorithm] Longest Substring Without Repeating Characters"
+        url: /coding/leetcode/longest-substring-without-repeating-characters/
+  - title: LC - Hard
+  

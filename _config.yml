@@ -29,7 +29,7 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 future                   : true
-words_per_minute         : 100
+words_per_minute         : 200
 comments:
   # provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   provider               : "disqus"
@@ -161,6 +161,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _coding_posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -213,6 +214,11 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
+collections:
+  coding_posts:
+    output: true
+    permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:
@@ -294,3 +300,15 @@ defaults:
       comments: true
       share: true
       related: true
+  # _docs
+  - scope:
+      path: ""
+      type: coding_posts
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: true
+      comments: true
+      sidebar:
+        nav: "coding_posts"

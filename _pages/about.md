@@ -4,6 +4,7 @@ title: "About Me"
 excerpt: "Michael is a brilliant Python Developer"
 layout: single
 toc: true
+author_profile: true
 ---
 
 ## {Full Stack} Python Developer
