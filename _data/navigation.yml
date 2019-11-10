@@ -2,10 +2,12 @@
 main:
   - title: "All Posts"
     url: /year-archive/
+  - title: "Post Series"
+    url: /categories/
   - title: "Coding Posts"
     url: /coding-posts/    
   - title: "By Tags"
-    url: /tags/  
+    url: /tags/
   - title: "About Me"
     url: /about-me/
   - title: "Demo Projects"

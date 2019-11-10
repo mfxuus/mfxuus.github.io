@@ -1,5 +1,5 @@
 ---
-title: "Sorting Algorithms w/ Python (Part 3)"
+title: "Algorithms with Python - Quick Sort and Heap Sort"
 excerpt: "Explore the common sorting algorithms, the theory behind them, as well as how to implement them using python. Part 3. Quick Sort, Heap Sort."
 <!-- last_modified_at: 2016-03-09T16:20:02-05:00 -->
 header:
@@ -28,9 +28,10 @@ Quick sort, similar to Merge Sort covered in Part 2, is also a divide-and-conque
 Heap sort, on the other hand, will seem to be quite different from other algorithms we have discussed so far, since it mainly operates on a data structure named Binary Heap. We will go into details on these concepts, including the definitions, array representation of such heaps, and the actual implementation.
 
 ### Links to Other Parts of Series
-- [Part 1: Bubble, Selection, and Insertion Sort]({% post_url 2019-10-19-sorting-algorithms-with-python-pt1 %})
-- [Part 2: Merge and Tim Sort]({% post_url 2019-10-26-sorting-algorithms-with-python-pt2 %})
+- [Part 1: Bubble, Selection, and Insertion Sort]({% post_url 2019-10-19-algorithms-with-python-pt1 %})
+- [Part 2: Merge and Tim Sort]({% post_url 2019-10-26-algorithms-with-python-pt2 %})
 
+- [All Posts in Algorithms Series]({{ "Algorithm Series" | slugify | prepend: "#" | prepend: site.category_archive.path | relative_url }})
 
 ### Array Sorting Complexities
 

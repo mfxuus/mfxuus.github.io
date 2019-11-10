@@ -1,5 +1,5 @@
 ---
-title: "Sorting Algorithms w/ Python (Part 1)"
+title: "Algorithms with Python - Bubble Sort, Selection Sort, and Insertion Sort"
 excerpt: "Explore the common sorting algorithms, the theory behind them, as well as how to implement them using python. Part 1. Bubble Sort, Selection Sort, and Insertion Sort."
 <!-- last_modified_at: 2016-03-09T16:20:02-05:00 -->
 header:
@@ -33,8 +33,10 @@ We will split up the algorithms into several parts within our series, each deali
 
 
 ### Links to Other Parts of Series
-- [Part 2: Merge Sort, Tim Sort]({% post_url 2019-10-26-sorting-algorithms-with-python-pt2 %})
-- [Part 3: Quick Sort, Heap Sort]({% post_url 2019-11-02-sorting-algorithms-with-python-pt3 %})
+- [Part 2: Merge Sort, Tim Sort]({% post_url 2019-10-26-algorithms-with-python-pt2 %})
+- [Part 3: Quick Sort, Heap Sort]({% post_url 2019-11-02-algorithms-with-python-pt3 %})
+
+- [All Posts in Algorithms Series]({{ "Algorithm Series" | slugify | prepend: "#" | prepend: site.category_archive.path | relative_url }})
 
 
 ### Array Sorting Complexities
@@ -288,4 +290,4 @@ Very similar to Selection Sort, we also have two nested loops here, each growing
 
 ---
 
-If you are feeling comfortable with the basic sortings we have covered here, please move on to our Part 2 of the series, [Sorting Algorithms w/ Python (Part 2)]({% post_url 2019-10-26-sorting-algorithms-with-python-pt2 %}), where we will see how we can improve our time complexity so that we could sort more efficiently on larger lists.
+If you are feeling comfortable with the basic sortings we have covered here, please move on to our Part 2 of the series, [Sorting Algorithms w/ Python (Part 2)]({% post_url 2019-10-26-algorithms-with-python-pt2 %}), where we will see how we can improve our time complexity so that we could sort more efficiently on larger lists.

@@ -12,7 +12,7 @@ This page consists of a curated list of demo projects.
 ### ReSensibly.com
 
 <div style="text-align: center;">
-	<img src="../../assets/images/demo_projects/resensibly.png"  width="400" height="300">
+	<img src="../../assets/images/demo_projects/resensibly.png"  width="400" height="300" style="border-radius: 4px;">
 </div>
 - Link: [ReSensibly.com](https://www.resensibly.com)
 - Description:
@@ -22,7 +22,7 @@ Import sales reports from popular platforms, and have our algorithm analyze the 
 
 ### AI-buybit.com
 <div style="text-align: center;">
-	<img src="../../assets/images/demo_projects/abbLogo.png"  width="400" height="300">
+	<img src="../../assets/images/demo_projects/abbLogo.png"  width="400" height="300" style="border-radius: 4px;">
 </div>
 - Link: [aibuybit.com](https://aibuybit.com)
 - Description:
@@ -31,7 +31,7 @@ At the wake of the crypto frenzy, clients came to us with an idea to apply Artif
 
 ### Bring2me.shop
 <div style="text-align: center;">
-	<img src="../../assets/images/demo_projects/b2m.png"  width="400" height="300">
+	<img src="../../assets/images/demo_projects/b2m.png"  width="400" height="300" style="border-radius: 4px;">
 </div>
 - Link: [Bring2me.shop](https://bring2me.shop)
 - Description:
@@ -41,7 +41,7 @@ We envision a world where physical distance no longer obstruct availability of c
 
 ### XiniaStudios.com
 <div style="text-align: center;">
-	<img src="../../assets/images/demo_projects/xinia.png"  width="400" height="300">
+	<img src="../../assets/images/demo_projects/xinia.png"  width="400" height="300" style="border-radius: 4px;">
 </div>
 - Link: [XiniaStudios.com](https://www.xiniastudios.com/)
 - Description: 
