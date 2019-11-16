@@ -6,6 +6,7 @@ header:
 categories:
   - Neural Networks Series
 tags:
+  - neural network
   - convolutional neural network
   - recurrent neural network
   - deep learning
@@ -22,7 +23,7 @@ related: true
 
 ## Overview
 
-In this series of blog posts we will explore one of the most important building blocks in Deep Learning: Neural Networks. We will explore various Deep Neural Networks (DNN), including Convolution Neural Networks (CNN) and Recurrent Neural Networks (RNN). We will explore the theories behind them, code implementations, as well as real-world applications. In this first part, we will give an overview of the landscape.
+In this series of blog posts we will explore one of the most important building blocks in Deep Learning: Neural Networks. We will explore various Deep Neural Networks (DNN), including Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN). We will explore the theories behind them, code implementations, as well as real-world applications. In this first part, we will give an overview of the landscape.
 
 ![brain neural network](/assets/images/posts/brain_neural_network.jpg)
 
@@ -42,7 +43,7 @@ There are many types of neural networks, but at a high level, most common archit
 
 ![cnn](/assets/images/posts/cnn.png)
 
-Convolution Neural Networks (CNNs) are a type of network that are commonly used for feature extraction algorithims, such as image classifications, image recognitions. As the diagram above indicates, CNNs operates in a series of layers, where usually the dimension of the problem is gradually reduced, and the feature being extracted is more and more high level. This can be visualized below:
+Convolutional Neural Networks (CNNs) are a type of network that are commonly used for feature extraction algorithims, such as image classifications, image recognitions. As the diagram above indicates, CNNs operates in a series of layers, where usually the dimension of the problem is gradually reduced, and the feature being extracted is more and more high level. This can be visualized below:
 
 
 ![cnn_layers](/assets/images/posts/cnn_layers.ppm)
@@ -106,4 +107,4 @@ Finally, we will conclude with a high level overview of RNN structures. As illus
 | *(<a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/">source</a>)* |
 
 
-That's it! In conclusion, we have introduced the most common Deep Neural Networks out in the wild, namely, Convolution Neural Networks, and Recurrent Neural Networks. We have discussed their use cases and basic structures, but you might be wondering to learn more about their inner workings - and that is exactly what we will bring to you in the next post.
+That's it! In conclusion, we have introduced the most common Deep Neural Networks out in the wild, namely, Convolutional Neural Networks, and Recurrent Neural Networks. We have discussed their use cases and basic structures, but you might be wondering to learn more about their inner workings - and that is exactly what we will bring to you in the next post.
