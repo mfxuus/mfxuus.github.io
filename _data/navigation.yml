@@ -26,11 +26,15 @@ coding_posts:
   - title: HR - Hard
   - title: LC - Easy
     children:
-      - title: "[Algorithm] Between Two Sets"
+      - title: "[Algorithm] Two Sum"
         url: /coding/leetcode/two-sum/
   - title: LC - Medium
     children:
       - title: "[Algorithm] Longest Substring Without Repeating Characters"
         url: /coding/leetcode/longest-substring-without-repeating-characters/
+      - title: "[Algorithm] Longest Palindromic Substring"
+        url: /coding/leetcode/longest-longest-palindromic-substring/
+      - title: "[Algorithm] Combination Sum"
+        url: /coding/leetcode/leetcode-combination-sum/
   - title: LC - Hard
   
