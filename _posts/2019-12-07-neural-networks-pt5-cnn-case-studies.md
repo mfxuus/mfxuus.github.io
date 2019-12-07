@@ -40,7 +40,7 @@ VGG stands for Visual Geometry Group based in University of Oxford. They showed 
 
 #### Structure
 
-| ![vgg_table](/assets/images/posts/vgg_table.png) |
+| ![vgg_table](/assets/images/posts/vgg_table.PNG) |
 |:--:|
 | *(source: [1] )* |
 
@@ -123,7 +123,7 @@ As the state of the art results on various challenges are being achieved by deep
 
 #### Structure
 
-| [![WideResNet Blocks](/assets/images/posts/wideresnet_blocks.png)](/assets/images/posts/wideresnet_blocks.png) |
+| [![WideResNet Blocks](/assets/images/posts/wideresnet_blocks.PNG)](/assets/images/posts/wideresnet_blocks.PNG) |
 |:--:|
 | *(source: [4])* |
 
