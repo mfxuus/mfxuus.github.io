@@ -36,5 +36,7 @@ coding_posts:
         url: /coding/leetcode/longest-longest-palindromic-substring/
       - title: "[Algorithm] Combination Sum"
         url: /coding/leetcode/leetcode-combination-sum/
+      - title: "[Algorithm] Valid Sudoku"
+        url: /coding/leetcode/leetcode-valid-sudoku/
   - title: LC - Hard
   
