@@ -28,6 +28,8 @@ coding_posts:
     children:
       - title: "[Algorithm] Two Sum"
         url: /coding/leetcode/two-sum/
+      - title: "[Algorithm] Remove Element"
+        url: /coding/leetcode/remove-element/
   - title: LC - Medium
     children:
       - title: "[Algorithm] Longest Substring Without Repeating Characters"
@@ -38,5 +40,7 @@ coding_posts:
         url: /coding/leetcode/leetcode-combination-sum/
       - title: "[Algorithm] Valid Sudoku"
         url: /coding/leetcode/leetcode-valid-sudoku/
+      - title: "[Algorithm] Search in Rotated Sorted Array"
+        url: /coding/leetcode/search-in-rotated-sorted-array/
   - title: LC - Hard
   
