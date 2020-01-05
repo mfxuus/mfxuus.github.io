@@ -340,3 +340,10 @@ Then go into your favorite browser, and navigate to that address (`http://<your 
 ## Final Note
 
 Don't forget to stop your VM once you're done with a session!! To stop a VM, simply click on the 3 vertical dots you've used to "start" the VM, but this time, choose "stop".
+
+
+## Resources
+
+A great resource / hands-on guide on performing Data Science tasks on GCP can be found here: <a href="https://amzn.to/2MQ7ogO">Data Science on the Google Cloud Platform</a>.
+
+<i>Instead of asking for donation, or plaguing you with ads, I choose to provide you with links through Amazon's Affiliate programs. Your purchase through the link helps support my blog at no additional cost to you, and you're buying something truly awesome at the same time!</i>

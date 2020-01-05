@@ -156,3 +156,12 @@ Equipped with Backpropagation and Gradient Descent, we are able to update our we
 ## Conclusion
 
 Now that we have covered these essential steps, we can take a look at the bigger picture and review what we have achieved. We started from a simple network, added hidden layers and non-linearity, learned how to define a goal, how to train our model, and how to improve the weights and predictions. These are the building blocks of neural networks, with many intricacies that we have skimmed over, but will discuss in more detail when we encounter them. There is one last note I would like to make. Recall earlier when I mentioned how activation functions are selected, I noted that having nice derivatives is a desirable property. Where did we take advantage of that? Look back at the equations for backpropagation, and observe that in step 4, we have the derivative of the activation function. Having nicely behaved activation functions therefore facilitates backpropagation both in terms of convergence behavior, and in terms of computational complexity.
+
+
+## Resources
+
+A very accessible introductory book on Deep Learning is as shown below. It is a fairly new book, but a pretty easy read that will give you a good idea of modern AI approaches and techniques.
+
+<a href="https://www.amazon.com/Deep-Learning-Press-Essential-Knowledge/dp/0262537559/ref=as_li_ss_il?crid=32X3ZH6FUEI41&keywords=neural+networks&qid=1577938868&s=books&sprefix=neural+,stripbooks,180&sr=1-17&linkCode=li3&tag=mfxuus-20&linkId=b3187aba027f2ddddc743e186c4238aa&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0262537559&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mfxuus-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=mfxuus-20&language=en_US&l=li3&o=1&a=0262537559" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<i>Instead of asking for donation, or plaguing you with ads, I choose to provide you with links through Amazon's Affiliate programs. Your purchase through the link helps support my blog at no additional cost to you, and you're buying something truly awesome at the same time!</i>

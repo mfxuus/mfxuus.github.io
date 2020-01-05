@@ -383,6 +383,15 @@ In light of these, some additional trainings are often performed on pre-trained 
 All in all, this blog post just shows how readily available the tools for Deep Learning are available to us, and how "easily" it is to create some models that are achieving very good results. I put "easy" in quotes, since there is no doubt that there had been a lot of trials and errors, along with tinkering and experimentation with layers / dimensions / optimization functions / etc. before [notebook 1] was able to determine which hyperparameters works well, but the bottom line is, the more you practice and work on real projects, the better intuition you will have in terms of what to choose for each task presented.
 
 
+## Resources
+
+This highly rated O' Reilly book can be very helpful if you are interested in diving deeper into this subject. I completely agree with the popular reviews, namely that this is best in class, and if you want just one hand-on guide on this subject, this is the one to get!
+
+<a href="https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=as_li_ss_il?_encoding=UTF8&pd_rd_i=1492032646&pd_rd_r=f9ad9fd3-c08e-4da6-9869-68ff059f78be&pd_rd_w=XA99c&pd_rd_wg=gMiUB&pf_rd_p=7c0dad87-8a25-4c4f-9349-026039ea6cb3&pf_rd_r=R0CC13CBF8T1WQMAJX5Z&psc=1&refRID=R0CC13CBF8T1WQMAJX5Z&linkCode=li3&tag=mfxuus-20&linkId=2503c0980c86ab4935269d8802da86e7&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1492032646&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mfxuus-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=mfxuus-20&language=en_US&l=li3&o=1&a=1492032646" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+<i>Instead of asking for donation, or plaguing you with ads, I choose to provide you with links through Amazon's Affiliate programs. Your purchase through the link helps support my blog at no additional cost to you, and you're buying something truly awesome at the same time!</i>
+
 
 #### References
 

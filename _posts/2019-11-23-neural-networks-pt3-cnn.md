@@ -176,3 +176,12 @@ The second type of regularization is actually more interesting. What it does is 
 ## Conclusion
 
 Now that we have a good understanding of these basic concepts that make up CNNs, we are ready to study a few important CNNs developed throughout the short span of this recent decade. Case studies are important, as they will offer us insights into what works, why they work, or why they don't work. Understanding these can help us build better networks ourselves, or even if we are only interested in using and implementing these networks, it is often helpful to have a basic understanding of what we are using and importing from the libraries and pacakges.
+
+
+## Resources
+
+A very accessible introductory book on Deep Learning is as shown below. It is a fairly new book, but a pretty easy read that will give you a good idea of modern AI approaches and techniques.
+
+<a href="https://www.amazon.com/Deep-Learning-Press-Essential-Knowledge/dp/0262537559/ref=as_li_ss_il?crid=32X3ZH6FUEI41&keywords=neural+networks&qid=1577938868&s=books&sprefix=neural+,stripbooks,180&sr=1-17&linkCode=li3&tag=mfxuus-20&linkId=b3187aba027f2ddddc743e186c4238aa&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0262537559&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mfxuus-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=mfxuus-20&language=en_US&l=li3&o=1&a=0262537559" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<i>Instead of asking for donation, or plaguing you with ads, I choose to provide you with links through Amazon's Affiliate programs. Your purchase through the link helps support my blog at no additional cost to you, and you're buying something truly awesome at the same time!</i>

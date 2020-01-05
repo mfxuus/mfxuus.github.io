@@ -46,3 +46,12 @@ We envision a world where physical distance no longer obstruct availability of c
 - Link: [XiniaStudios.com](https://www.xiniastudios.com/)
 - Description: 
 XINIA Studios is a curated jewelry boutique founded on Fall 2019, whose goal is to provide modern women affordable, trendy and unique jewelry.
+
+
+### React+Firebase Chatroom
+<div style="text-align: center;">
+	<img src="../../assets/images/demo_projects/chatroom.png"  width="400" height="300" style="border-radius: 4px;">
+</div>
+- Link: [MX's Chatroom](https://react-firebase-demo-68bad.firebaseapp.com/)
+- Description: 
+A simple app made with React and Firebase, mostly for educational purposes. The details are documented here in my blog post: [Chatroom From Scratch: React + Firebase]({% post_url 2020-01-04-react-chatroom-with-firebase %})
