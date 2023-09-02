@@ -111,8 +111,8 @@ analytics:
 author:
   name             : "Michael Xu"
   avatar           : "/assets/images/bio-photo.jpeg"
-  bio              : "Fullstack Engineer \\ AI/ML Practitioner "
-  location         : "Connecticut, USA"
+  bio              : "CS Graduate Student @ UW-Madison"
+  location         : "Wisconsin, USA"
   email            : mfxecon@gmail.com
   links:
     - label: "Email"
