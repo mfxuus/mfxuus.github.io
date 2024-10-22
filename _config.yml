@@ -113,7 +113,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpeg"
   bio              : "CS @ UW-Madison"
   location         : "Wisconsin, USA"
-  email            : mfxecon@gmail.com
+  email            : michaelfxu@cs.wisc.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
