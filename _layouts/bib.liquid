@@ -47,6 +47,7 @@
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
+    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">{{ entry.conf_label }}</span>
     <div class="title">{{ entry.title }}</div>
     <!-- Author -->
     <div class="author">
@@ -180,6 +181,10 @@
     </div>
     <div class="periodical">
       {{ entry.note | strip }}
+    </div>
+    <div class="periodical" style="font-size: small; color: #cc0000;">
+      <i class="fa-solid fa-award" style="display: contents"></i>
+      {{ entry.award_custom | strip }}
     </div>
 
     <!-- Links/Buttons -->

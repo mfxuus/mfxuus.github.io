@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 # Custom CV settings
 # -----------------------------------------------------------------------------
-cv_pdf: Michael_F_XU_CV.pdf
+# cv_pdf: Michael_F_XU_CV.pdf
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -338,6 +338,8 @@ filtered_bibtex_keywords:
     supp,
     video,
     website,
+    award_custom,
+    conf_label,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
@@ -652,3 +654,4 @@ jsonresume:
   - languages
   - interests
   - references
+  - research
