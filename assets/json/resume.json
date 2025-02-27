@@ -215,6 +215,23 @@
           "is_last": true
         }
       ]
+    },
+    {
+      "name": "Exploring the Use of Robots for Diary Studies",
+      "conf_label": "HRI 2025",
+      "publisher": "Proceedings of the 20th ACM/IEEE International Conference on Human Robot Interaction (HRI)",
+      "releaseDate": "2025",
+      "url": "",
+      "authors": [
+        {
+          "name": "Michael F. Xu",
+          "is_self": true
+        },
+        {
+          "name": "Bilge Mutlu",
+          "is_last": true
+        }
+      ]
     }
   ],
   // "skills": [

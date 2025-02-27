@@ -48,6 +48,7 @@
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
     <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">{{ entry.conf_label }}</span>
+    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 35px">{{ entry.acceptance_rate }}</span>
     <div class="title">{{ entry.title }}</div>
     <!-- Author -->
     <div class="author">
@@ -182,10 +183,12 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
+    {% if entry.award_custom %}
     <div class="periodical" style="font-size: small; color: #cc0000;">
       <i class="fa-solid fa-award" style="display: contents"></i>
       {{ entry.award_custom | strip }}
     </div>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
