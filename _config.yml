@@ -339,6 +339,7 @@ filtered_bibtex_keywords:
     video,
     website,
     award_custom,
+    acceptance_rate,
     conf_label,
   ]
 

@@ -232,6 +232,29 @@
           "is_last": true
         }
       ]
+    },
+    {
+      "name": "Developing Robot Prototypes to Explore Robot-Facilitated Family Routines",
+      "conf_label": "HRI 2025 LBR",
+      "publisher": "Proceedings of the 20th ACM/IEEE International Conference on Human Robot Interaction (HRI)",
+      "releaseDate": "2025",
+      "url": "",
+      "authors": [
+        {
+          "name": "Xinning He"
+        },
+        {
+          "name": "Michael F. Xu",
+          "is_self": true
+        },
+        {
+          "name": "Bengisu Cagiltay"
+        },
+        {
+          "name": "Bilge Mutlu",
+          "is_last": true
+        }
+      ]
     }
   ],
   // "skills": [
