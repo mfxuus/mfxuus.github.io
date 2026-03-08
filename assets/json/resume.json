@@ -219,7 +219,7 @@
     {
       "name": "Exploring the Use of Robots for Diary Studies",
       "conf_label": "HRI 2025",
-      "publisher": "Proceedings of the 20th ACM/IEEE International Conference on Human Robot Interaction (HRI)",
+      "publisher": "Proceedings of the 20th ACM/IEEE International Conference on Human Robot Interaction (HRI ’25)",
       "releaseDate": "2025",
       "url": "",
       "authors": [
@@ -236,7 +236,7 @@
     {
       "name": "Developing Robot Prototypes to Explore Robot-Facilitated Family Routines",
       "conf_label": "HRI 2025 LBR",
-      "publisher": "Proceedings of the 20th ACM/IEEE International Conference on Human Robot Interaction (HRI)",
+      "publisher": "Proceedings of the 20th ACM/IEEE International Conference on Human Robot Interaction (HRI ’25)",
       "releaseDate": "2025",
       "url": "",
       "authors": [
@@ -249,6 +249,35 @@
         },
         {
           "name": "Bengisu Cagiltay"
+        },
+        {
+          "name": "Bilge Mutlu",
+          "is_last": true
+        }
+      ]
+    },
+    {
+      "name": "Designing Robots for Families: In-Situ Prototyping for Contextual Reminders on Family Routines",
+      "conf_label": "HRI 2026",
+      "publisher": "Proceedings of the 21st ACM/IEEE International Conference on Human Robot Interaction (HRI ’26)",
+      "releaseDate": "2026",
+      "url": "",
+      "authors": [
+        {
+          "name": "Michael F. Xu",
+          "is_self": true
+        },
+        {
+          "name": "Enhui Zhao"
+        },
+        {
+          "name": "Yawen Zhang"
+        },
+        {
+          "name": "Joseph Michaelis"
+        },
+        {
+          "name": "Sarah Sebo"
         },
         {
           "name": "Bilge Mutlu",
