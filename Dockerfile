@@ -1,4 +1,4 @@
-FROM ruby:slim
+FROM ruby:3.3-slim
 
 # uncomment these if you are having this issue with the build:
 # /usr/local/bundle/gems/jekyll-4.3.4/lib/jekyll/site.rb:509:in `initialize': Permission denied @ rb_sysopen - /srv/jekyll/.jekyll-cache/.gitignore (Errno::EACCES)
@@ -54,15 +54,17 @@ ENV EXECJS_RUNTIME=Node \
 RUN mkdir /srv/jekyll
 
 # copy the Gemfile and Gemfile.lock to the image
-ADD Gemfile.lock /srv/jekyll
-ADD Gemfile /srv/jekyll
+COPY Gemfile.lock Gemfile /srv/jekyll/
 
 # set the working directory
 WORKDIR /srv/jekyll
 
-# install jekyll and dependencies
-RUN gem install --no-document jekyll bundler
-RUN bundle install --no-cache
+# Install the Bundler version recorded in Gemfile.lock, then install the
+# locked dependencies without allowing the build to rewrite the lockfile.
+# Jekyll itself is installed by bundle install.
+RUN gem install --no-document bundler:2.6.2 && \
+    bundle config set frozen true && \
+    bundle install --no-cache
 
 EXPOSE 8080
 

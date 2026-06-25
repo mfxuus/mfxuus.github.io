@@ -219,6 +219,7 @@
     {
       "name": "Exploring the Use of Robots for Diary Studies",
       "conf_label": "HRI 2025",
+      "acceptance_rate": "25%",
       "publisher": "Proceedings of the 20th ACM/IEEE International Conference on Human Robot Interaction (HRI ’25)",
       "releaseDate": "2025",
       "url": "",
@@ -259,6 +260,7 @@
     {
       "name": "Designing Robots for Families: In-Situ Prototyping for Contextual Reminders on Family Routines",
       "conf_label": "HRI 2026",
+      "acceptance_rate": "23%",
       "publisher": "Proceedings of the 21st ACM/IEEE International Conference on Human Robot Interaction (HRI ’26)",
       "releaseDate": "2026",
       "url": "",
@@ -278,6 +280,59 @@
         },
         {
           "name": "Sarah Sebo"
+        },
+        {
+          "name": "Bilge Mutlu",
+          "is_last": true
+        }
+      ]
+    },
+    {
+      "name": "Supporting Family-School Partnerships with Robot-Facilitated Home-Based Activities",
+      "conf_label": "IDC 2026",
+      "publisher": "Proceedings of the 25th Annual ACM Interaction Design and Children Conference",
+      "releaseDate": "2026-06",
+      "url": "https://doi.org/10.1145/3773077.3806112",
+      "arxiv": "https://arxiv.org/abs/2604.23978",
+      "acceptance_rate": "23%",
+      "authors": [
+        {
+          "name": "Michael F. Xu",
+          "is_self": true
+        },
+        {
+          "name": "Qiyao Yang"
+        },
+        {
+          "name": "Heather Kirkorian"
+        },
+        {
+          "name": "Bilge Mutlu",
+          "is_last": true
+        }
+      ]
+    },
+    {
+      "name": "Designing Robots to Support Parent-Child Connections: Opportunities Through Robot-Mediated Communication",
+      "conf_label": "IDC 2026",
+      "publisher": "Proceedings of the 25th Annual ACM Interaction Design and Children Conference",
+      "releaseDate": "2026-06",
+      "url": "https://doi.org/10.1145/3773077.3810976",
+      "arxiv": "https://arxiv.org/abs/2604.23976",
+      "acceptance_rate": "23%",
+      "authors": [
+        {
+          "name": "Michael F. Xu",
+          "is_self": true
+        },
+        {
+          "name": "Bengisu Cagiltay"
+        },
+        {
+          "name": "Yaxin Hu"
+        },
+        {
+          "name": "Anjun Zhu"
         },
         {
           "name": "Bilge Mutlu",
