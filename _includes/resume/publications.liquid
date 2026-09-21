@@ -9,7 +9,10 @@
             <tbody>
               <tr>
                 <td>
-                  <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">{{ content.conf_label }}</span>
+                  <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
+                    {{ content.conf_label -}}
+                    {%- if content.acceptance_rate %} · {{ content.acceptance_rate }}{% endif %}
+                  </span>
                 </td>
               </tr>
             </tbody>
@@ -28,7 +31,9 @@
           {% endfor %}
           {{ content.publisher }}
           </p>
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.summary }}</h6>
+          {% if content.summary %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.summary }}</h6>
+          {% endif %}
           {% if content.award %}
             <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">
               <i class="fa-solid fa-award" style="display: contents"></i>
