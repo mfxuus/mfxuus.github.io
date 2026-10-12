@@ -137,6 +137,11 @@
   // ],
   "awards": [
     {
+      "title": "Special Recognition for Outstanding Reviews",
+      "date": "2026",
+      "awarder": "ACM Interaction Design and Children Conference"
+    },
+    {
       "title": "Computer Sciences Summer Fellowship",
       "date": "2024-05",
       "awarder": "University of Wisconsin-Madison"
